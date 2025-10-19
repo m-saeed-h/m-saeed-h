@@ -1,10 +1,7 @@
-# Hi there! 👋  
-I'm Mohammed Hansrod, a Software Engineer based in London, United Kingdom.  
+Final year Software Engineering student specialising in Machine Learning and AI.
 
-I’m passionate about Software Engineering and enjoy creating projects that are both impactful and scalable. My interests lie in building intuitive user interfaces, optimizing backend systems, and exploring new technologies.  
+Currently building production ML applications with LLMs, RAG systems, and model fine tuning. Experienced in full stack development and cloud deployment.
 
-I’m currently focusing on honing my skills in Software Engineering. I love working on personal projects, contributing to open-source, and solving challenging problems through code.  
+Seeking ML Engineer opportunities starting February 2026
 
-Outside of development, I enjoy exploring tech trends, and learning about science and innovation.
-
-Let’s connect and collaborate on exciting ideas!  
+Tech: Python, JavaScript, LangChain, AWS, Docker, Git
